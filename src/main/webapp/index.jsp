@@ -21,7 +21,7 @@
   <body>
     <!-- The content of the website starts here now! -->
     <div class="jumbotron">
-      <h1 class="display-4">Hello Khang!</h1>
+      <h1 class="display-4">ASDASDASDASD</h1>
       <p class="lead">
         This is a very simple website template that uses bootstrap CSS
         framework!
